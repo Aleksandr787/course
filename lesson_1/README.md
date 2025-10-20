@@ -10,3 +10,6 @@ This repository contains materials for a git lesson including homework and prese
 - [Homework](1_homework.md) - Practical exercises for learning git
 - [Presentation](1_presentation.pdf) - PDF presentation covering git fundamentals
 
+## About me
+
+Hello! I'm Alex and it's information about me. I don't write anything about me!
